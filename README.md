@@ -1,15 +1,15 @@
-<a href="mailto:para.alves@gmail.com?subject=How are you doing, brother?">
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=altherlex&show_icons=true&count_private=true&theme=gruvbox"></img>
   <img height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true&hide=php,perl,apacheconf,gherkin,makefile&theme=gruvbox"></img>
 </p>
 
-<p align="right">
+<div align="right">
+  
   <sub><sup>Github Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)</sub></sup>
-</p>
+  
+</div>
+
+---
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -27,9 +27,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 <!--
+<a href="mailto:para.alves@gmail.com?subject=How are you doing, brother?">
+  
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true
 
