@@ -7,7 +7,7 @@
 
 
 
-Git Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+<sub><sup>Git Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)</sub></sup>
 <!--
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true
