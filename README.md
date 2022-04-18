@@ -1,6 +1,15 @@
-### Hi there 👋
+### Welcome
 
+![Alther's GitHub stats](https://github-readme-stats.vercel.app/api?username=altherlex&show_icons=true&count_private=true&theme=gruvbox)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true&hide=php&theme=gruvbox"></img>
+
+
+Git stats powered by (github-readme-stats)[https://github.com/anuraghazra/github-readme-stats#github-stats-card]
 <!--
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true
+
 **altherlex/altherlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
