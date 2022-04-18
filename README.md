@@ -1,8 +1,7 @@
-### Welcome
-
-![Alther's GitHub stats](https://github-readme-stats.vercel.app/api?username=altherlex&show_icons=true&count_private=true&theme=gruvbox) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true&hide=php,perl,apacheconf,gherkin,makefile&theme=gruvbox)
-
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=altherlex&show_icons=true&count_private=true&theme=gruvbox"></img>
+  <img height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true&hide=php,perl,apacheconf,gherkin,makefile&theme=gruvbox"></img>
+</p>
 
 
 <sub><sup>Git Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)</sub></sup>
