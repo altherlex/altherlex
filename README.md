@@ -2,7 +2,9 @@
 
 ![Alther's GitHub stats](https://github-readme-stats.vercel.app/api?username=altherlex&show_icons=true&count_private=true&theme=gruvbox)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true&hide=php&theme=gruvbox"></img>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=compact&langs_count=10&count_private=true&hide=php&theme=gruvbox)
+
+
 
 
 Git Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
