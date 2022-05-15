@@ -49,6 +49,12 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
+---
+
+- 🔭 I’m currently working on Annota - webservice to share your book titles and annotations.
+
+<sub>[WIP]Latest readings and notes https://dbhub.io/vis/alther/AEAnnotation_v10312011_1727_local.sqlite</sup>
+
 <!--
 <a href="mailto:para.alves@gmail.com?subject=How are you doing, brother?">
   
@@ -61,7 +67,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=altherlex&layout=
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
