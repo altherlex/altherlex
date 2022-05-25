@@ -51,7 +51,7 @@
 
 ---
 
-- 🔭 I’m currently working on Annota - webservice to share your book titles and annotations.
+- 🔭 I’m currently working on [Annota](https://annota.vercel.app) - webservice to share your lately readings and notes.
 
 <sub>[WIP]Latest readings and notes https://dbhub.io/vis/alther/AEAnnotation_v10312011_1727_local.sqlite</sup>
 
